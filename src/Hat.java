@@ -4,6 +4,8 @@ public class Hat {
         System.out.println("Alex is wearing baseball cap");
         System.out.println("Inna is wearing nothing");
 
+        //hat is boring in my opinion
+
 
     }
 }
