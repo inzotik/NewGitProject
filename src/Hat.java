@@ -6,6 +6,8 @@ public class Hat {
 
         //hat is boring in my opinion
 
+        //sasha is dancing
+
 
     }
 }
